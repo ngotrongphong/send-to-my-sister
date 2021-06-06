@@ -7,9 +7,9 @@ const CONFIG = {
     btnYes: 'Tất nhiên là Phong rồi',
     btnNo: 'Nhi Nhi',
     btnNo: 'Nhi Nhi',
-    question:'Ngoài dễ thương còn gì nữa không nhỉ ?',
+    question:'Ngoài cute còn gì nữa không nhỉ ?',
     btnReply: 'Send',
-    reply: 'Ngoan nhất nhà nữa nè <3',
+    reply: 'Ngoan nhất nhà nữa nè <3333333',
     mess: 'Đừng, em ngại, nói dối không được sao😪 ',
     btnAccept: 'Hiiiii <3',
     messLink: 'https://www.google.com' 
